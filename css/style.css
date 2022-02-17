@@ -94,6 +94,11 @@ header {
     color: #9b9b9b;
 }
 
+.wrapper h2, a {
+    text-decoration: none;
+    color: #ED5900;
+}
+
 .wrapper p {
     width: 500px;
     margin: 11% 0 2% 20%;
